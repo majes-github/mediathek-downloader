@@ -1,0 +1,15 @@
+.list-group-item.d-flex.list-group-item.align-items-start .container {
+    padding: 0;
+}
+
+.d-inline-block.text-truncate {
+    max-width: 80%;
+}
+
+.col-4.size {
+    text-align: right;
+}
+
+.alert.alert-success {
+    margin: 1em;
+}
