@@ -7,3 +7,4 @@ services:
       - "5000:5000"
     volumes:
       - /data/mediathek:/mediathek
+      - ./schedule.json:/code/schedule.json
